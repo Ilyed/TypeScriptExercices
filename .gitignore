@@ -1,1 +1,6 @@
 /node_modules/
+/.idea/.gitignore
+/.idea/modules.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/TypeScriptExercices.iml
+/.idea/vcs.xml
